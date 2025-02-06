@@ -6,7 +6,7 @@ h1 {
 
 h2 {
 
-    font-size: 90px;
+    font-size: 50px;
 
 }
 
@@ -35,13 +35,13 @@ h2 {
 }
 
 .intro-text-font {
-    font-family: "Meow Script", serif;
-    font-weight: 580;
+    font-family: "Space Mono", serif;
+    font-weight: 500;
     font-style: normal;
 }
   
 .name-text-font {
-    font-family: "Space Mono", serif;
+    font-family: "Offside", serif;
     font-weight: 700;
     font-style: normal;
 }
